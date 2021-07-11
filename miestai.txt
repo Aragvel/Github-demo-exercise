@@ -3,3 +3,5 @@ Vilnius
 Kaunasas
 Klaipedasa
 Siaulasai
+Kursenasai
+Palangasai
