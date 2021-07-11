@@ -9,3 +9,5 @@ pochuvikai
 Raginiai
 Kariotiskiai
 Cigonynai
+Kukuraitenai
+Mejenai
